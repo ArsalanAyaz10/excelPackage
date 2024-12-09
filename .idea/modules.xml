@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/excelfile/excelfile.iml" filepath="$PROJECT_DIR$/excelfile/excelfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excelfile/android/excelfile_android.iml" filepath="$PROJECT_DIR$/excelfile/android/excelfile_android.iml" />
+    </modules>
+  </component>
+</project>
